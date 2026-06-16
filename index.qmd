@@ -1,0 +1,27 @@
+# Pedro H. A. Anjos
+
+## Computational Physicist
+
+Multiphase Flows • Environmental Flows • Scientific Computing
+
+I develop computational models and high-fidelity simulations to study multiphase flows, particle-laden transport, and evolving fluid interfaces in environmental and engineering systems.
+
+---
+
+## Research Areas
+
+### Multiphase Flows and Transport
+
+Understanding the dynamics of multiphase systems involving fluids with different physical properties.
+
+### Environmental and Geophysical Flows
+
+Computational investigations of gravity currents, turbidity currents, and sediment transport.
+
+### Interfacial Dynamics and Pattern Formation
+
+Hydrodynamic instabilities, evolving interfaces, and nonlinear pattern formation.
+
+### Computational Methods
+
+Numerical methods for fluid mechanics and scientific computing.
