@@ -1,27 +1,75 @@
 # Pedro H. A. Anjos
 
+::: {.columns}
+
+::: {.column width="25%"}
+
+![](images/profile.jpg){width=180px}
+
+:::
+
+::: {.column width="75%"}
+
 ## Computational Physicist
 
-Multiphase Flows • Environmental Flows • Scientific Computing
+*Multiphase Flows • Environmental Flows • Scientific Computing*
 
-I develop computational models and high-fidelity simulations to study multiphase flows, particle-laden transport, and evolving fluid interfaces in environmental and engineering systems.
+I develop computational models and high-fidelity numerical simulations to study multiphase flows, particle-laden transport, and evolving fluid interfaces in environmental and engineering systems.
 
----
+My research combines fluid mechanics, applied mathematics, and scientific computing to investigate problems ranging from porous media displacement and interfacial instabilities to gravity currents and sediment transport.
+
+:::
+
+:::
+
+![](images/hero.png){fig-align="center" width="100%"}
 
 ## Research Areas
 
+::: {.columns}
+
+::: {.column width="50%"}
+
+![](images/multiphase.png)
+
 ### Multiphase Flows and Transport
 
-Understanding the dynamics of multiphase systems involving fluids with different physical properties.
+Displacement processes, miscible and immiscible flows, porous media transport, and flow control.
+
+:::
+
+::: {.column width="50%"}
+
+![](images/environmental.png)
 
 ### Environmental and Geophysical Flows
 
-Computational investigations of gravity currents, turbidity currents, and sediment transport.
+Turbidity currents, gravity currents, sediment transport, and particle-laden flows.
 
-### Interfacial Dynamics and Pattern Formation
+:::
 
-Hydrodynamic instabilities, evolving interfaces, and nonlinear pattern formation.
+:::
+
+::: {.columns}
+
+::: {.column width="50%"}
+
+![](images/interfacial.gif)
+
+### Interfacial Dynamics
+
+Hydrodynamic instabilities, evolving interfaces, and pattern formation.
+
+:::
+
+::: {.column width="50%"}
+
+![](images/computing.png)
 
 ### Computational Methods
 
-Numerical methods for fluid mechanics and scientific computing.
+Scientific computing, Navier–Stokes solvers, boundary integral methods, and HPC.
+
+:::
+
+:::
