@@ -1,75 +1,42 @@
 # Pedro H. A. Anjos
 
-::: {.columns}
-
-::: {.column width="25%"}
-
-![](images/profile.jpg){width=180px}
-
-:::
-
-::: {.column width="75%"}
-
 ## Computational Physicist
 
-*Multiphase Flows • Environmental Flows • Scientific Computing*
-
-I develop computational models and high-fidelity numerical simulations to study multiphase flows, particle-laden transport, and evolving fluid interfaces in environmental and engineering systems.
-
-My research combines fluid mechanics, applied mathematics, and scientific computing to investigate problems ranging from porous media displacement and interfacial instabilities to gravity currents and sediment transport.
-
-:::
-
-:::
+*Multiphase Flows • Environmental Flows • Interfacial Dynamics*
 
 ![](images/hero.png){fig-align="center" width="100%"}
 
+I develop computational models and numerical simulations to investigate multiphase flows, transport phenomena, and evolving fluid interfaces in environmental and engineering systems.
+
+My research combines fluid mechanics, applied mathematics, and scientific computing to study porous media flows, interfacial instabilities, gravity currents, sediment transport, and particle-laden environmental flows.
+
 ## Research Areas
 
-::: {.columns}
 
-::: {.column width="50%"}
 
-![](images/multiphase.png)
+![](images/multiphase.png){fig-align="center" width="40%"}
 
 ### Multiphase Flows and Transport
 
-Displacement processes, miscible and immiscible flows, porous media transport, and flow control.
+Transport processes involving miscible and immiscible fluids, porous media flows, and particle-laden systems. My work combines numerical simulations and theoretical modeling to understand complex transport phenomena across a broad range of environmental and engineering applications.
 
-:::
+---
 
-::: {.column width="50%"}
-
-![](images/environmental.png)
+![](images/computing.png){fig-align="center" width="60%"}
 
 ### Environmental and Geophysical Flows
 
-Turbidity currents, gravity currents, sediment transport, and particle-laden flows.
+Numerical investigations of turbidity currents, gravity currents, sediment transport, and particle-laden environmental flows. These systems play a central role in natural hazards, submarine sediment transport, and environmental mixing processes.
 
-:::
+---
 
-:::
+![](images/interfacial.gif){fig-align="center" width="30%"}
 
-::: {.columns}
+### Interfacial Dynamics and Soft Matter Systems
 
-::: {.column width="50%"}
+Hydrodynamic instabilities, viscous fingering, magnetic fluid interfaces, and nonlinear pattern formation. This research explores how fluid interfaces evolve under competing physical mechanisms and external forcing.
 
-![](images/interfacial.gif)
+---
 
-### Interfacial Dynamics
 
-Hydrodynamic instabilities, evolving interfaces, and pattern formation.
 
-:::
-
-::: {.column width="50%"}
-
-![](images/computing.png)
-
-### Computational Methods
-
-Scientific computing, Navier–Stokes solvers, boundary integral methods, and HPC.
-
-:::
-
-:::

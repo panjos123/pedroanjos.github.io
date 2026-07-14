@@ -32,28 +32,49 @@
     "href": "index.html",
     "title": "Pedro H. A. Anjos",
     "section": "",
-    "text": "Multiphase Flows • Environmental Flows • Scientific Computing\nI develop computational models and high-fidelity numerical simulations to study multiphase flows, particle-laden transport, and evolving fluid interfaces in environmental and engineering systems.\nMy research combines fluid mechanics, applied mathematics, and scientific computing to investigate problems ranging from porous media displacement and interfacial instabilities to gravity currents and sediment transport.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDisplacement processes, miscible and immiscible flows, porous media transport, and flow control.\n\n\n\n\n\nTurbidity currents, gravity currents, sediment transport, and particle-laden flows.\n\n\n\n\n\n\n\n\nHydrodynamic instabilities, evolving interfaces, and pattern formation.\n\n\n\n\n\nScientific computing, Navier–Stokes solvers, boundary integral methods, and HPC."
+    "text": "Multiphase Flows • Environmental Flows • Interfacial Dynamics\n\n\n\n\n\nI develop computational models and numerical simulations to investigate multiphase flows, transport phenomena, and evolving fluid interfaces in environmental and engineering systems.\nMy research combines fluid mechanics, applied mathematics, and scientific computing to study porous media flows, interfacial instabilities, gravity currents, sediment transport, and particle-laden environmental flows.\n\n\n\n\n\n\n\n\n\n\nTransport processes involving miscible and immiscible fluids, porous media flows, and particle-laden systems. My work combines numerical simulations and theoretical modeling to understand complex transport phenomena across a broad range of environmental and engineering applications.\n\n\n\n\n\n\n\n\n\nNumerical investigations of turbidity currents, gravity currents, sediment transport, and particle-laden environmental flows. These systems play a central role in natural hazards, submarine sediment transport, and environmental mixing processes.\n\n\n\n\n\n\n\n\n\nHydrodynamic instabilities, viscous fingering, magnetic fluid interfaces, and nonlinear pattern formation. This research explores how fluid interfaces evolve under competing physical mechanisms and external forcing."
+  },
+  {
+    "objectID": "index.html#computational-physicist",
+    "href": "index.html#computational-physicist",
+    "title": "Pedro H. A. Anjos",
+    "section": "",
+    "text": "Multiphase Flows • Environmental Flows • Interfacial Dynamics\n\n\n\n\n\nI develop computational models and numerical simulations to investigate multiphase flows, transport phenomena, and evolving fluid interfaces in environmental and engineering systems.\nMy research combines fluid mechanics, applied mathematics, and scientific computing to study porous media flows, interfacial instabilities, gravity currents, sediment transport, and particle-laden environmental flows."
   },
   {
     "objectID": "index.html#research-areas",
     "href": "index.html#research-areas",
     "title": "Pedro H. A. Anjos",
     "section": "",
-    "text": "Displacement processes, miscible and immiscible flows, porous media transport, and flow control.\n\n\n\n\n\nTurbidity currents, gravity currents, sediment transport, and particle-laden flows.\n\n\n\n\n\n\n\n\nHydrodynamic instabilities, evolving interfaces, and pattern formation.\n\n\n\n\n\nScientific computing, Navier–Stokes solvers, boundary integral methods, and HPC."
+    "text": "Transport processes involving miscible and immiscible fluids, porous media flows, and particle-laden systems. My work combines numerical simulations and theoretical modeling to understand complex transport phenomena across a broad range of environmental and engineering applications.\n\n\n\n\n\n\n\n\n\nNumerical investigations of turbidity currents, gravity currents, sediment transport, and particle-laden environmental flows. These systems play a central role in natural hazards, submarine sediment transport, and environmental mixing processes.\n\n\n\n\n\n\n\n\n\nHydrodynamic instabilities, viscous fingering, magnetic fluid interfaces, and nonlinear pattern formation. This research explores how fluid interfaces evolve under competing physical mechanisms and external forcing."
   },
   {
     "objectID": "contact.html",
     "href": "contact.html",
-    "title": "website",
+    "title": "Contact",
     "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+    "text": "Visiting Researcher\nDepartment of Mechanical Engineering\nPontifical Catholic University of Rio de Janeiro (PUC-Rio, Brazil)\nI am always interested in discussing research collaborations, faculty positions, teaching opportunities, and interdisciplinary projects in fluid mechanics, soft matter physics, and scientific computing.\n\n\n\n\n\n\n\n\n\n\n\npamorimanjos@esp.puc-rio.br\n\n\n\n\nGoogle Scholar\nORCID\nLinkedIn\n\n\nFeel free to contact me regarding research collaborations, academic opportunities, or graduate student supervision."
   },
   {
-    "objectID": "contact.html#quarto",
-    "href": "contact.html#quarto",
-    "title": "website",
+    "objectID": "contact.html#pedro-h.-a.-anjos",
+    "href": "contact.html#pedro-h.-a.-anjos",
+    "title": "Contact",
     "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+    "text": "Visiting Researcher\nDepartment of Mechanical Engineering\nPontifical Catholic University of Rio de Janeiro (PUC-Rio, Brazil)\nI am always interested in discussing research collaborations, faculty positions, teaching opportunities, and interdisciplinary projects in fluid mechanics, soft matter physics, and scientific computing."
+  },
+  {
+    "objectID": "contact.html#email",
+    "href": "contact.html#email",
+    "title": "Contact",
+    "section": "",
+    "text": "pamorimanjos@esp.puc-rio.br"
+  },
+  {
+    "objectID": "contact.html#profiles",
+    "href": "contact.html#profiles",
+    "title": "Contact",
+    "section": "",
+    "text": "Google Scholar\nORCID\nLinkedIn\n\n\nFeel free to contact me regarding research collaborations, academic opportunities, or graduate student supervision."
   },
   {
     "objectID": "cv.html",
@@ -72,16 +93,23 @@
   {
     "objectID": "publications.html",
     "href": "publications.html",
-    "title": "website",
+    "title": "Publications",
     "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+    "text": "24. Three-dimensional simulations of variable-viscosity gravity currents\nPedro H. A. Anjos, Eckart Meiburg, and Rafael M. Oliveira\nSubmitted\n\n\n\n\n\n\n\n\n\n\n23. Interfacial properties and inertial effects in the growth of three-dimensional miscible viscous fingers with nonmonotonic viscosity profile\nBruno J. M. Santos, Pedro H. A. Anjos, and Rafael M. Oliveira\nSubmitted\n\n\n\n\n\n\n\n\n\n\n22. Optimizing injection protocols in Hele-Shaw displacements: a trade-off between swept area and injection time\nAnna L. M. B. Mattos, Rafael M. Oliveira, Pedro H. A. Anjos, and Eduardo O. Dias\nSubmitted\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n21. Ferrofluid drop in an off-centered radial magnetic field\nÍrio M. Coutinho, Pedro H. A. Anjos, Rafael M. Oliveira, and José A. Miranda\nPhys. Fluids 37, 082108 (2025)\n\n\n\n\n\n\n\n\n\n\n\n\n\n20. Fingering stabilization and adhesion force in the lifting flow with a fluid annulus\nÍrio M. Coutinho, Pedro H. A. Anjos, Rafael M. Oliveira, and José A. Miranda\nPhys. Rev. E 109, 015104 (2024)\n\n\n\n\n\n\n\n\n\n\n\n\n\n19. Numerical study on viscous fingering using electric fields in a Hele-Shaw cell\nMeng Zhao, Pedro H. A. Anjos, John Lowengrub, Wenjun Ying, and Shuwang Li\nCommun. Comput. Phys. 33, 399 (2023)\n\n\n\n\n\n\n\n\n\n\n\n\n\n18. Controlling fluid adhesion force with electric fields\nPedro H. A. Anjos, Francisco M. Rocha, and Eduardo O. Dias\nPhys. Rev. E 106, 055109 (2022)\n\n\n\n\n\n\n\n\n\n\n17. Electrically controlled self-similar evolution of viscous fingering patterns\nPedro H. A. Anjos, Meng Zhao, John Lowengrub, and Shuwang Li\nPhys. Rev. Fluids 7, 053903 (2022)\n\n\n\n\n\n\n\n\n\n\n16. Ferrofluid annulus in crossed magnetic fields\nPedro O. S. Livera, Pedro H. A. Anjos, and José A. Miranda\nPhys. Rev. E 105, 045106 (2022)\n\n\n\n\n\n\n\n\n\n\n\n\n\n15. Shape instabilities in confined ferrofluids under crossed magnetic fields\nRafael M. Oliveira, Írio M. Coutinho, Pedro H. A. Anjos, and José A. Miranda\nPhys. Rev. E 104, 065113 (2021)\n\n\n\n\n\n\n\n\n\n\n14. Magnetically induced interfacial instabilities in a ferrofluid annulus\nPedro O. S. Livera, Pedro H. A. Anjos, and José A. Miranda\nPhys. Rev. E 104, 065103 (2021)\n\n\n\n\n\n\n\n\n\n\n13. Controlling fingering instabilities in Hele-Shaw flows in the presence of wetting film effects\nPedro H. A. Anjos, Meng Zhao, John Lowengrub, Weizhu Bao, and Shuwang Li\nPhys. Rev. E 103, 063105 (2021)\n\n\n\n\n\n\n\n\n\n\n\n\n\n12. Pattern formation of the three-layer Saffman-Taylor problem in a radial Hele-Shaw cell\nMeng Zhao, Pedro H. A. Anjos, John Lowengrub, and Shuwang Li\nPhys. Rev. Fluids 5, 124005 (2020)\n\n\n\n\n\n\n\n\n\n\n11. Weakly nonlinear analysis of the Saffman-Taylor problem in a radially spreading fluid annulus\nPedro H. A. Anjos, and Shuwang Li\nPhys. Rev. Fluids 5, 054002 (2020)\n\n\n\n\n\n\n\n\n\n\n\n\n\n10. Wrinkling and folding patterns in a confined ferrofluid droplet with an elastic interface\nPedro H. A. Anjos, Gabriel D. Carvalho, Sérgio A. Lira, and José A. Miranda\nPhys. Rev. E 99, 022608 (2019)\n\n\n\n\n\n\n\n\n\n\n\n\n\n9. Fingering instability transition in radially tapered Hele-Shaw cells: Insights at the onset of nonlinear effects\nPedro H. A. Anjos, Eduardo O. Dias, and José A. Miranda\nPhys. Rev. Fluids 3, 124004 (2018)\n\n\n\n\n\n\n\n\n\n\n8. Fingering patterns in magnetic fluids: Perturbative solutions and the stability of exact stationary shapes\nPedro H. A. Anjos, Sérgio A. Lira, and José A. Miranda\nPhys. Rev. Fluids 3, 044002 (2018)\n\n\n\n\n\n\n\n\n\n\n\n\n\n7. Rotating Hele-Shaw cell with a time-dependent angular velocity\nPedro H. A. Anjos, Victor M. M. Alvarez, Eduardo O. Dias, and José A. Miranda\nPhys. Rev. Fluids 2, 124003 (2017)\n\n\n\n\n\n\n\n\n\n\n6. Radial fingering under arbitrary viscosity and density ratios\nPedro H. A. Anjos, Eduardo O. Dias, and José A. Miranda\nPhys. Rev. Fluids 2, 084004 (2017)\n\n\n\n\n\n\n\n\n\n\n5. Inertia-induced dendriticlike patterns in lifting Hele-Shaw flows\nPedro H. A. Anjos, Eduardo O. Dias, and José A. Miranda\nPhys. Rev. Fluids 2, 014003 (2017)\n\n\n\n\n\n\n\n\n\n\n\n\n\n4. Kinetic undercooling in Hele-Shaw flows\nPedro H. A. Anjos, Eduardo O. Dias, and José A. Miranda\nPhys. Rev. E 92, 043019 (2015)\n\n\n\n\n\n\n\n\n\n\n3. Adhesion force in fluids: Effects of fingering, wetting, and viscous normal stresses\nPedro H. A. Anjos, Eduardo O. Dias, Laércio Dias, and José A. Miranda\nPhys. Rev. E 91, 013003 (2015)\n\n\n\n\n\n\n\n\n\n\n\n\n\n2. Influence of wetting on fingering patterns in lifting Hele-Shaw flows\nPedro H. A. Anjos, and José A. Miranda\nSoft Matter 10, 7459 (2014)\n(cover page article)\n\n\n\n\n\n\n\n\n\n\n\n\n\n1. Radial viscous fingering: Wetting film effects on pattern-forming mechanisms\nPedro H. A. Anjos, and José A. Miranda\nPhys. Rev. E 88, 053003 (2013)"
   },
   {
-    "objectID": "publications.html#quarto",
-    "href": "publications.html#quarto",
-    "title": "website",
+    "objectID": "publications.html#preprints-submitted",
+    "href": "publications.html#preprints-submitted",
+    "title": "Publications",
     "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+    "text": "24. Three-dimensional simulations of variable-viscosity gravity currents\nPedro H. A. Anjos, Eckart Meiburg, and Rafael M. Oliveira\nSubmitted\n\n\n\n\n\n\n\n\n\n\n23. Interfacial properties and inertial effects in the growth of three-dimensional miscible viscous fingers with nonmonotonic viscosity profile\nBruno J. M. Santos, Pedro H. A. Anjos, and Rafael M. Oliveira\nSubmitted\n\n\n\n\n\n\n\n\n\n\n22. Optimizing injection protocols in Hele-Shaw displacements: a trade-off between swept area and injection time\nAnna L. M. B. Mattos, Rafael M. Oliveira, Pedro H. A. Anjos, and Eduardo O. Dias\nSubmitted"
+  },
+  {
+    "objectID": "publications.html#published",
+    "href": "publications.html#published",
+    "title": "Publications",
+    "section": "",
+    "text": "21. Ferrofluid drop in an off-centered radial magnetic field\nÍrio M. Coutinho, Pedro H. A. Anjos, Rafael M. Oliveira, and José A. Miranda\nPhys. Fluids 37, 082108 (2025)\n\n\n\n\n\n\n\n\n\n\n\n\n\n20. Fingering stabilization and adhesion force in the lifting flow with a fluid annulus\nÍrio M. Coutinho, Pedro H. A. Anjos, Rafael M. Oliveira, and José A. Miranda\nPhys. Rev. E 109, 015104 (2024)\n\n\n\n\n\n\n\n\n\n\n\n\n\n19. Numerical study on viscous fingering using electric fields in a Hele-Shaw cell\nMeng Zhao, Pedro H. A. Anjos, John Lowengrub, Wenjun Ying, and Shuwang Li\nCommun. Comput. Phys. 33, 399 (2023)\n\n\n\n\n\n\n\n\n\n\n\n\n\n18. Controlling fluid adhesion force with electric fields\nPedro H. A. Anjos, Francisco M. Rocha, and Eduardo O. Dias\nPhys. Rev. E 106, 055109 (2022)\n\n\n\n\n\n\n\n\n\n\n17. Electrically controlled self-similar evolution of viscous fingering patterns\nPedro H. A. Anjos, Meng Zhao, John Lowengrub, and Shuwang Li\nPhys. Rev. Fluids 7, 053903 (2022)\n\n\n\n\n\n\n\n\n\n\n16. Ferrofluid annulus in crossed magnetic fields\nPedro O. S. Livera, Pedro H. A. Anjos, and José A. Miranda\nPhys. Rev. E 105, 045106 (2022)\n\n\n\n\n\n\n\n\n\n\n\n\n\n15. Shape instabilities in confined ferrofluids under crossed magnetic fields\nRafael M. Oliveira, Írio M. Coutinho, Pedro H. A. Anjos, and José A. Miranda\nPhys. Rev. E 104, 065113 (2021)\n\n\n\n\n\n\n\n\n\n\n14. Magnetically induced interfacial instabilities in a ferrofluid annulus\nPedro O. S. Livera, Pedro H. A. Anjos, and José A. Miranda\nPhys. Rev. E 104, 065103 (2021)\n\n\n\n\n\n\n\n\n\n\n13. Controlling fingering instabilities in Hele-Shaw flows in the presence of wetting film effects\nPedro H. A. Anjos, Meng Zhao, John Lowengrub, Weizhu Bao, and Shuwang Li\nPhys. Rev. E 103, 063105 (2021)\n\n\n\n\n\n\n\n\n\n\n\n\n\n12. Pattern formation of the three-layer Saffman-Taylor problem in a radial Hele-Shaw cell\nMeng Zhao, Pedro H. A. Anjos, John Lowengrub, and Shuwang Li\nPhys. Rev. Fluids 5, 124005 (2020)\n\n\n\n\n\n\n\n\n\n\n11. Weakly nonlinear analysis of the Saffman-Taylor problem in a radially spreading fluid annulus\nPedro H. A. Anjos, and Shuwang Li\nPhys. Rev. Fluids 5, 054002 (2020)\n\n\n\n\n\n\n\n\n\n\n\n\n\n10. Wrinkling and folding patterns in a confined ferrofluid droplet with an elastic interface\nPedro H. A. Anjos, Gabriel D. Carvalho, Sérgio A. Lira, and José A. Miranda\nPhys. Rev. E 99, 022608 (2019)\n\n\n\n\n\n\n\n\n\n\n\n\n\n9. Fingering instability transition in radially tapered Hele-Shaw cells: Insights at the onset of nonlinear effects\nPedro H. A. Anjos, Eduardo O. Dias, and José A. Miranda\nPhys. Rev. Fluids 3, 124004 (2018)\n\n\n\n\n\n\n\n\n\n\n8. Fingering patterns in magnetic fluids: Perturbative solutions and the stability of exact stationary shapes\nPedro H. A. Anjos, Sérgio A. Lira, and José A. Miranda\nPhys. Rev. Fluids 3, 044002 (2018)\n\n\n\n\n\n\n\n\n\n\n\n\n\n7. Rotating Hele-Shaw cell with a time-dependent angular velocity\nPedro H. A. Anjos, Victor M. M. Alvarez, Eduardo O. Dias, and José A. Miranda\nPhys. Rev. Fluids 2, 124003 (2017)\n\n\n\n\n\n\n\n\n\n\n6. Radial fingering under arbitrary viscosity and density ratios\nPedro H. A. Anjos, Eduardo O. Dias, and José A. Miranda\nPhys. Rev. Fluids 2, 084004 (2017)\n\n\n\n\n\n\n\n\n\n\n5. Inertia-induced dendriticlike patterns in lifting Hele-Shaw flows\nPedro H. A. Anjos, Eduardo O. Dias, and José A. Miranda\nPhys. Rev. Fluids 2, 014003 (2017)\n\n\n\n\n\n\n\n\n\n\n\n\n\n4. Kinetic undercooling in Hele-Shaw flows\nPedro H. A. Anjos, Eduardo O. Dias, and José A. Miranda\nPhys. Rev. E 92, 043019 (2015)\n\n\n\n\n\n\n\n\n\n\n3. Adhesion force in fluids: Effects of fingering, wetting, and viscous normal stresses\nPedro H. A. Anjos, Eduardo O. Dias, Laércio Dias, and José A. Miranda\nPhys. Rev. E 91, 013003 (2015)\n\n\n\n\n\n\n\n\n\n\n\n\n\n2. Influence of wetting on fingering patterns in lifting Hele-Shaw flows\nPedro H. A. Anjos, and José A. Miranda\nSoft Matter 10, 7459 (2014)\n(cover page article)\n\n\n\n\n\n\n\n\n\n\n\n\n\n1. Radial viscous fingering: Wetting film effects on pattern-forming mechanisms\nPedro H. A. Anjos, and José A. Miranda\nPhys. Rev. E 88, 053003 (2013)"
   },
   {
     "objectID": "teaching.html",
@@ -96,12 +124,5 @@
     "title": "website",
     "section": "",
     "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
-  },
-  {
-    "objectID": "index.html#computational-physicist",
-    "href": "index.html#computational-physicist",
-    "title": "Pedro H. A. Anjos",
-    "section": "",
-    "text": "Multiphase Flows • Environmental Flows • Scientific Computing\nI develop computational models and high-fidelity numerical simulations to study multiphase flows, particle-laden transport, and evolving fluid interfaces in environmental and engineering systems.\nMy research combines fluid mechanics, applied mathematics, and scientific computing to investigate problems ranging from porous media displacement and interfacial instabilities to gravity currents and sediment transport."
   }
 ]

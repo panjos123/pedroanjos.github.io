@@ -1,7 +1,37 @@
----
-title: "website"
+# Contact
+
+## Pedro H. A. Anjos
+
+::: {.columns}
+
+::: {.column width="80%"}
+
+**Visiting Researcher**  
+Department of Mechanical Engineering  
+Pontifical Catholic University of Rio de Janeiro (PUC-Rio, Brazil)
+
+I am always interested in discussing research collaborations, faculty positions, teaching opportunities, and interdisciplinary projects in fluid mechanics, soft matter physics, and scientific computing.
+
+:::
+
+::: {.column width="20%"}
+
+![](images/profile.jpeg){fig-align="right" width="70%"}
+
+:::
+
+:::
+
+## Email
+
+pamorimanjos@esp.puc-rio.br
+
+## Profiles
+
+- <a href="https://scholar.google.com/citations?user=M7D0WLoAAAAJ&hl=en" target="_blank">Google Scholar</a>
+- <a href="https://orcid.org/0000-0002-3007-0531" target="_blank">ORCID</a>
+- <a href="https://www.linkedin.com/in/pedro-anjos-4784a11b1/" target="_blank">LinkedIn</a>
+
 ---
 
-## Quarto
-
-Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+*Feel free to contact me regarding research collaborations, academic opportunities, or graduate student supervision.*
